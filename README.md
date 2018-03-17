@@ -76,7 +76,7 @@
 
 - Inheritance and Composition
 
-## _Недостатки_:
+###### _Недостатки_:
 
 - New Class for every feature
 
@@ -94,7 +94,7 @@
 
 - usually a refactoring pattern
 
-## _Недостатки_:
+###### _Недостатки_:
 
 - Over usage
 
